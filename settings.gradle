@@ -1,0 +1,2 @@
+rootProject.name = "HomeLauncherTask"
+include ':app'
